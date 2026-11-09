@@ -1,4 +1,4 @@
-# Waveshare 5inch e-Paper Product Engineering Sample Program
+# Waveshare 7.5inch e-Paper Product Engineering Sample Program
 
 [中文](README_ZH.md)
 
